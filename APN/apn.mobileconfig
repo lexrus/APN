@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>PayloadContent</key>
+                <array>
+                    <dict>
+                        <key>DefaultsData</key>
+                        <dict>
+                            <key>apns</key>
+                            <array>
+                                <dict>
+                                    <key>apn</key>
+                                    <string>3gnet</string>
+                                    <key>proxy</key>
+                                    <string>lextang.com</string>
+                                    <key>proxyPort</key>
+                                    <integer>7777</integer>
+                                </dict>
+                            </array>
+                        </dict>
+                        <key>DefaultsDomainName</key>
+                        <string>com.apple.managedCarrier</string>
+                    </dict>
+                </array>
+                <key>PayloadDescription</key>
+                <string>Provides customization of carrier Access Point Name.</string>
+                <key>PayloadDisplayName</key>
+                <string>APN</string>
+                <key>PayloadIdentifier</key>
+                <string>com.lextang.APNMobileConfig.</string>
+                <key>PayloadOrganization</key>
+                <string>LexTang.com</string>
+                <key>PayloadType</key>
+                <string>com.apple.apn.managed</string>
+                <key>PayloadUUID</key>
+                <string>8D83F161-1F78-4201-9A07-C136B58DB2A2</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+            </dict>
+        </array>
+        <key>PayloadDescription</key>
+        <string>Profile description.</string>
+        <key>PayloadDisplayName</key>
+        <string>LexAPN</string>
+        <key>PayloadIdentifier</key>
+        <string>com.lextang.APNMobileConfig</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadRemovalDisallowed</key>
+        <false/>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadUUID</key>
+        <string>4783B294-B57A-4478-B7DB-191A3F7E752C</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+    </dict>
+</plist>

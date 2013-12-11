@@ -1,4 +1,4 @@
-![apntitle](https://f.cloud.github.com/assets/219689/1721100/337b7862-6216-11e3-8019-644bd3424db0.png)
+![apnbanner](https://f.cloud.github.com/assets/219689/1721174/bc6b1680-6218-11e3-9c2c-f25c16f1df19.png)
 
 ![apnscreenshots](https://f.cloud.github.com/assets/219689/1720769/ecf451b0-620c-11e3-87bd-542b733f0c28.jpg)
 
@@ -14,7 +14,7 @@
 内置的 Bonjour web 服务还可以帮你快速地在本地网络中分享你的配置。
 
 ## 为啥又造一个轮子？
-你不觉得 AppStore 里的那几个和你的 iOS 7 不搭调吗？
+你不觉得 App Store 里的那几个和你的 iOS 7 不搭调吗？
 
 ## 授权协议
 ```
